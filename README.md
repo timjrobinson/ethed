@@ -8,7 +8,7 @@ It is built using [Docusaurus 2](https://docusaurus.io/), a modern static websit
 
 ## Contributing
 
-You can create new pages in the [pages directory](./src/pages/) as markdown files. The filename of the page will be it's URL.
+You can create new pages in the [docs directory](./docs/) as markdown files. The filename of the page will be it's URL.
 
 If you're new to Github see [this guide](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to learn how to open a pull request with your changes.
 If you just want to edit a page you can open it on Github and click the edit icon in the top right to make your changes in the online editor. After you're done it will create a pull request with your changes. 
