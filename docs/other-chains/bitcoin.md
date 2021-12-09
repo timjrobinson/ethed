@@ -1,0 +1,8 @@
+
+
+# Bitcoin
+
+## Compliments
+
+
+## Criticisms
