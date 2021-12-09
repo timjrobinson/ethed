@@ -41,3 +41,9 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 The `main` branch is auto-deployed to `gh-pages` via a [Github Action](./workflows/publish.yml)
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Tim Robinson has waived all copyright and related or neighboring rights to this work.
